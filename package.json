@@ -27,7 +27,9 @@
   },
   "dependencies": {
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "react-router": "2.6.1",
+    "moment": "^2.18.1"
   },
   "scripts": {
     "dev": "webpack-dev-server --content-base public/",
